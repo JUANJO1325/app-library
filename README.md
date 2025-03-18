@@ -16,6 +16,7 @@ JavaScript
 Css
 
 
+
 👨🏻‍💻 Integrantes del equipo de desarrollo
 
 -Daniel Mazo Alarcon
